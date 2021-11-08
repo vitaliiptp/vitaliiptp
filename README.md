@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 </p>
+
+
+<img src="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg">

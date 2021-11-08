@@ -16,7 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<p align=”center”>
-<a href=”https://www.linkedin.com/in/vitalii-potapenko/”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" /></a>
-</p>
+<a href=”https://www.linkedin.com/in/vitalii-potapenko/”><img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" /></a>

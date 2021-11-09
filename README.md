@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 
 
 <img src="assets/gmail-logo.png" style="width: 2rem">
+<img src="assets/linkedin-logo.png" style="width: 2rem">

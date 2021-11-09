@@ -29,10 +29,7 @@ Here are some ideas to get you started:
 
 <!-- [![Vitalii's github stats](https://github-readme-stats.vercel.app/api/pin/?username=vitaliiptp&count private=true&showicons=true&theme=nightowl&hide_title=true&langs count=2)](https://github.com/vitaliiptp/github-readme-stats) -->
 
-[![Vitalii's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitaliiptp&show_icons=true&theme=radical)](https://github.com/vitaliiptp/github-readme-stats)
-
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Vitalii's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitaliiptp&count_private=true&show_icons=true&theme=tokyonight&hide_title=true&langs_count=2)](https://github.com/vitaliiptp/github-readme-stats)
 
 
 

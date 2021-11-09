@@ -44,7 +44,12 @@ Here are some ideas to get you started:-->
 [<img align="left" alt=gmail width="30px" src="assets/gmail.png" />](mailto:vitalii.potapenko@gmail.com)
 
 
-![](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)
-![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
+![](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&logoWidth=20)
+![](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat&logoWidth=20)
+![](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat&logoWidth=20)
+![](https://img.shields.io/badge/-NodeJs-339933?logo=node.js&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 
 ![](https://komarev.com/ghpvc/?username=vitaliiptp&color=blue&style=plastic&label=%E2%80%A2%E2%80%A2)

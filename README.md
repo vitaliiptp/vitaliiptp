@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 [![Vitalii's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitaliiptp&count_private=true&show_icons=true&theme=tokyonight&hide_title=true)](https://github.com/vitaliiptp/github-readme-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitaliiptp&layout=compact)](https://github.com/vitaliiptp/github-readme-stats)
+
 
 
 [<img align="left" alt=linkedin width="25px" src="assets/linkedin.png" />](https://www.linkedin.com/in/vitalii-potapenko/)

@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 </a> -->
 
 
-[![Vitalii's github stats|(https://github-readme-stats.vercel.app/api?username=vitaliiptp&count private=true&showicons=true&theme=nightowl&hide_title=true&langs count=2)](https://github.com/vitaliiptp/github-readme-stats)
+[![Vitalii's github stats](https://github-readme-stats.vercel.app/api?username=vitaliiptp&count private=true&showicons=true&theme=nightowl&hide_title=true&langs count=2)](https://github.com/vitaliiptp/github-readme-stats)
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

@@ -37,7 +37,7 @@ Here are some ideas to get you started:-->
 
 <br />
 
-### Feel freee to reach out!🙂
+### Feel free to reach out!🙂
 
 [<img align="left" alt=linkedin width="35px" src="assets/linkedin.png" />](https://www.linkedin.com/in/vitalii-potapenko/)
 

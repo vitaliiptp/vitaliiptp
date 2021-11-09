@@ -21,18 +21,17 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
   </a>
 </p>
-
-
-
 <img src="assets/gmail-logo.png" style="width: 2rem">
-
 <a href="https://www.linkedin.com/in/vitalii-potapenko/">
   <img src="assets/linkedin-logo.png" style="width: 2rem">
 </a> -->
 
 
-<!-- [![Vitalii's github stats|(https://github-readme-stats.vercel.app/api?
-username=vitaliiptp&count private=true&show icons=true&theme=nightowl&hide_title=true&langs count=2)](https://github -->
+[![Vitalii's github stats|(https://github-readme-stats.vercel.app/api?username=vitaliiptp&count private=true&showicons=true&theme=nightowl&hide_title=true&langs count=2)](https://github.com/vitaliiptp/github-readme-stats)
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
 
 
 [<img align="left" alt=linkedin width="25px" src="assets/linkedin.png" />](https://www.linkedin.com/in/vitalii-potapenko/)

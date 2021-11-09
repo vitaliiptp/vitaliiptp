@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 
-![Vitalii's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitaliiptp&count_private=true&show_icons=true&theme=tokyonight&hide_title=true)
+[![Vitalii's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitaliiptp&count_private=true&show_icons=true&theme=tokyonight&hide_title=true)](https://github.com/vitaliiptp/github-readme-stats)
 
 
 

@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-### I'm JavaScript Developer with focus on backend.
+### I'm JavaScript Developer passionate about technology.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

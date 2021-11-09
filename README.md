@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Vitalii 👋
 
 <!--
 **vitaliiptp/vitaliiptp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
 
+### I'm JavaScript Developer with focus on backend.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,7 +16,7 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+<br />
 
 <!-- <p align="center">
   <a href="https://www.linkedin.com/in/vitalii-potapenko/">
@@ -34,7 +35,9 @@ Here are some ideas to get you started:-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitaliiptp&layout=compact)](https://github.com/vitaliiptp/github-readme-stats)
 
+<br />
 
+### Feel freee to reach out!🙂
 
 [<img align="left" alt=linkedin width="35px" src="assets/linkedin.png" />](https://www.linkedin.com/in/vitalii-potapenko/)
 
@@ -42,5 +45,6 @@ Here are some ideas to get you started:-->
 
 
 ![](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)
+![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
 
 ![](https://komarev.com/ghpvc/?username=vitaliiptp&color=blue&style=plastic&label=%E2%80%A2%E2%80%A2)

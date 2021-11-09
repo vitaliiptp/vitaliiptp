@@ -36,7 +36,7 @@ Here are some ideas to get you started:-->
 
 
 
-[<img align="left" alt=linkedin width="30px" src="assets/linkedin.png" />](https://www.linkedin.com/in/vitalii-potapenko/)
+[<img align="left" alt=linkedin width="35px" src="assets/linkedin.png" />](https://www.linkedin.com/in/vitalii-potapenko/)
 
 [<img align="left" alt=gmail width="30px" src="assets/gmail.png" />](mailto:vitalii.potapenko@gmail.com)
 

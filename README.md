@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 </p>
 
 
-<img src="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg">
+<img src="assets/gmail-logo.png">

@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 username=vitaliiptp&count private=true&show icons=true&theme=nightowl&hide_title=true&langs count=2)](https://github -->
 
 
-[<img align="left" alt=linkedin width="25px" src="assets/linkedin-logo.png" />](https://www.linkedin.com/in/vitalii-potapenko/)
+[<img align="left" alt=linkedin width="2rem" src="assets/linkedin-logo.png" />](https://www.linkedin.com/in/vitalii-potapenko/)
 
-[<img align="left" alt=linkedin width="25px" src="assets/gmail-logo.png" />] (mailto: vitalii.potapenko@gmail.com)
+[<img align="left" alt=linkedin width="2rem" src="assets/gmail-logo.png" />](mailto:vitalii.potapenko@gmail.com)
 
 
 ![](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)

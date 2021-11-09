@@ -46,6 +46,6 @@ Here are some ideas to get you started:-->
 
 ![](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)
 ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
-https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&&logo=JavaScript&logoColor=black
+https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black
 
 ![](https://komarev.com/ghpvc/?username=vitaliiptp&color=blue&style=plastic&label=%E2%80%A2%E2%80%A2)

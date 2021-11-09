@@ -17,11 +17,15 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vitalii-potapenko/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
+  <a href="https://www.linkedin.com/in/vitalii-potapenko/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+  </a>
 </p>
 
 
+
 <img src="assets/gmail-logo.png" style="width: 2rem">
-<img src="assets/linkedin-logo.png" style="width: 2rem">
+
+<a href="https://www.linkedin.com/in/vitalii-potapenko/">
+  <img src="assets/linkedin-logo.png" style="width: 2rem">
+</a>

@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 </p>
 
 
-<img src="assets/gmail-logo.png">
+<img src="assets/gmail-logo.png" style="width: 2rem">

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/vitalii-potapenko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
   </a>
@@ -28,4 +28,18 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/vitalii-potapenko/">
   <img src="assets/linkedin-logo.png" style="width: 2rem">
-</a>
+</a> -->
+
+
+<!-- [![Vitalii's github stats|(https://github-readme-stats.vercel.app/api?
+username=vitaliiptp&count private=true&show icons=true&theme=nightowl&hide_title=true&langs count=2)](https://github -->
+
+
+[<img align="left" alt=linkedin width="25px" src="assets/linkedin-logo.png" />](https://www.linkedin.com/in/vitalii-potapenko/)
+
+[<img align="left" alt=linkedin width="25px" src="assets/gmail-logo.png" />] (mailto: vitalii.potapenko@gmail.com)
+
+
+![](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)
+
+![](https://komarev.com/ghpvc/?username=vitaliiptp&color=blue&style=plastic&label=%E2%80%A2%E2%80%A2)

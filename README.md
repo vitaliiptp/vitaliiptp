@@ -39,7 +39,7 @@ Here are some ideas to get you started:-->
 
 ### Feel free to reach out!🙂
 
-[<img align="left" alt=linkedin width="25px" src="assets/linkedin.png" />](https://www.linkedin.com/in/vitalii-potapenko/)
+[<img align="left" alt=linkedin width="27px" src="assets/linkedin.png" />](https://www.linkedin.com/in/vitalii-potapenko/)
 
 [<img align="left" alt=gmail width="30px" src="assets/gmail.png" />](mailto:vitalii.potapenko@gmail.com)
 

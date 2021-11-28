@@ -37,6 +37,12 @@ Here are some ideas to get you started:-->
 
 <br />
 
+
+
+![Alt Text](assets/Overall_layout.gif)
+
+
+
 ### Feel free to reach out!🙂
 
 [<img align="left" alt=linkedin width="27px" src="assets/linkedin.png" />](https://www.linkedin.com/in/vitalii-potapenko/)

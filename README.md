@@ -37,13 +37,14 @@ Here are some ideas to get you started:-->
 
 <br />
 
+![Alt Text](assets/Overall_layout.mp4)
 
 
-![Alt Text](assets/Overall_layout.gif)
+<!-- ![Alt Text](assets/Overall_layout.gif)
 ![Alt Text](assets/Contact_form.gif)
 ![Alt Text](assets/Login.gif)
 ![Alt Text](assets/Registration.gif)
-![Alt Text](assets/Responsive.gif)
+![Alt Text](assets/Responsive.gif) -->
 
 
 

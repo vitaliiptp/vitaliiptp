@@ -38,6 +38,8 @@ Here are some ideas to get you started:-->
 <br />
 
 
+![Alt Text](assets/Contact_form.gif)
+
 <!-- ![Alt Text](assets/Overall_layout.gif)
 ![Alt Text](assets/Responsive.gif)
 ![Alt Text](assets/Registration.gif)

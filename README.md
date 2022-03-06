@@ -36,8 +36,6 @@ Here are some ideas to get you started:-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitaliiptp&layout=compact)](https://github.com/vitaliiptp/github-readme-stats)
 
 <br />
-<br />
-
 
 ### Techlogies I enjoy working with:
 
@@ -54,8 +52,6 @@ Here are some ideas to get you started:-->
 
 
 <br />
-<br />
-
 
 ### Feel free to reach out!🙂
 
@@ -63,6 +59,9 @@ Here are some ideas to get you started:-->
 
 [<img align="left" alt=gmail width="30px" src="assets/gmail.png" />](mailto:vitalii.potapenko@gmail.com)
 
+
+<br />
+<br />
 
 
 ![](https://komarev.com/ghpvc/?username=vitaliiptp&color=blue&style=plastic&label=%E2%80%A2%E2%80%A2)

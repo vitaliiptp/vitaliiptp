@@ -36,9 +36,10 @@ Here are some ideas to get you started:-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitaliiptp&layout=compact)](https://github.com/vitaliiptp/github-readme-stats)
 
 <br />
+<br />
 
 
-Techlogies I enjoy working with:
+### Techlogies I enjoy working with:
 
 ![](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)
 ![](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat)
@@ -52,7 +53,8 @@ Techlogies I enjoy working with:
 ![](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat)
 
 
-
+<br />
+<br />
 
 
 ### Feel free to reach out!🙂

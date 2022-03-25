@@ -39,7 +39,7 @@ Here are some ideas to get you started:-->
 
 ### Techlogies I enjoy working with:
 
-![](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)
+<!-- ![](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue) -->
 ![](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat&logoWidth=20)
 ![](https://img.shields.io/badge/-NodeJs-339933?logo=node.js&logoColor=white&style=flat)
